@@ -1,5 +1,13 @@
 remote_theme: just-the-docs/just-the-docs
 
+# Site Settings
+
+title: CE252
+description: CE252 class at KAIST
+baseurl: "/"
+url: "https://ce252.github.io"
+
+
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
