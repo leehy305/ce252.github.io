@@ -1,11 +1,10 @@
-remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
 
 # Site Settings
 
 title: CE252
 description: CE252 class at KAIST
-baseurl: "/ce252"
-url: "https://leehy305.github.io"
+url: "https://leehy305.github.io/ce252"
 
 
 # Enable or disable the site search
